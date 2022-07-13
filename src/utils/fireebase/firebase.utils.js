@@ -9,6 +9,7 @@ import {
   signInWithPopup,
   GoogleAuthProvider,
   createUserWithEmailAndPassword,
+  signInWithEmailAndPassword,
 } from 'firebase/auth';
 
 // for the firestore database
@@ -25,7 +26,7 @@ const firebaseConfig = {
 };
 
 // Initialize Firebase
-const firebaseApp = initializeApp(firebaseConfig);
+initializeApp(firebaseConfig);
 
 const googleProvider = new GoogleAuthProvider();
 
@@ -52,7 +53,7 @@ export const createUserDocumentFromAuth = async (userAuth, additionalInfo) => {
 
   const userSnapshot = await getDoc(userDocRef);
   //   console.log(userSnapshot);
-//   console.log(userSnapshot.exists()); //checks if the data exists in the database
+  //   console.log(userSnapshot.exists()); //checks if the data exists in the database
 
   //  setting a user in the database
   if (!userSnapshot.exists()) {
@@ -79,4 +80,9 @@ export const createAuthUserWithEmailAndPassword = async (email, password) => {
   if (!email || !password) return;
 
   return await createUserWithEmailAndPassword(auth, email, password);
+};
+export const singInAuthUserWithEmailAndPassword = async (email, password) => {
+  if (!email || !password) return;
+
+  return await signInWithEmailAndPassword(auth, email, password);
 };

@@ -1,4 +1,4 @@
-import './button.styles.scss'
+import './button.styles.scss';
 
 // default button
 //  inverted
@@ -15,6 +15,7 @@ const Button = ({ children, buttonType, ...otherProps }) => {
       className={`button-container ${BUTTON_TYPES_CLASS[buttonType]}`}
       {...otherProps} //main function of the button
     >
+      {/* button label */}
       {children}
     </button>
   );

@@ -6,6 +6,7 @@ const addCartItem = (cartItems, productToAdd) => {
     cartItem => cartItem.id === productToAdd.id
   );
 
+  // console.log(cartItems);
   // if found, increment quantity.
   if (existingCartItem) {
     return cartItems.map(cartItem =>
@@ -92,7 +93,7 @@ export const CartProvider = ({ children }) => {
     clearItemFromCart,
     cartItems,
     cartCount,
-    cartTotal 
+    cartTotal,
   };
 
   return <CartContext.Provider value={value}>{children}</CartContext.Provider>;

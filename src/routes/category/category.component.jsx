@@ -9,7 +9,6 @@ const Category = () => {
   const { category } = useParams();
 
   // console.log(category)
-
   const { categoriesMap } = useContext(CategoriesContext);
 
   // const products = categoriesMap[category]

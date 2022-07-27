@@ -58,7 +58,7 @@ export const database = getFirestore();
 export const addCollectionAndDocuments = async (
   collectionKey,
   objectToAdd,
-  field
+  field //title
 ) => {
   const collectionRef = collection(database, collectionKey);
 
@@ -71,7 +71,7 @@ export const addCollectionAndDocuments = async (
   });
 
   await batch.commit();
-  console.log('done');
+  // console.log('done');
 };
 
 export const getCategoriesAndDocuments = async () => {

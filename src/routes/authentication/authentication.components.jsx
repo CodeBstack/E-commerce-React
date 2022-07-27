@@ -5,19 +5,14 @@ import SignInForm from '../../component/sign-in-form/sign-in-form.component';
 
 import './authentication.styles.scss';
 // import {
-//   // auth,
+// auth,
 //   signInWithGooglePopup,
 //   createUserDocumentFromAuth,
-//   //   signInWithGoogleRedirect,
+//   signInWithGoogleRedirect,
 // } from '../../utils/fireebase/firebase.utils';
 
 const Authentication = () => {
   // FOR REDIRECT SIGN IN
-  //   useEffect(async () => {
-  //     const response = await getRedirectResult(auth);
-  //     console.log(response);
-  //   }, []);
-
   //   useEffect(() => {
   //     async function fetchData() {
   //       const response = await getRedirectResult(auth);
@@ -29,7 +24,6 @@ const Authentication = () => {
   //     fetchData();
   //   }, []);
 
-  
   // FOR GOOGLE POPUP before it was taken to the sign in component
   // const logGoogleUser = async () => {
   //   const { user } = await signInWithGooglePopup();

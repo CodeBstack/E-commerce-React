@@ -1,0 +1,59 @@
+"filename", "language", "JavaScript", "SCSS", "JavaScript React", "XML", "Markdown", "JSON", "HTML", "comment", "blank", "total"
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\.prettierrc", "JSON", 0, 0, 0, 0, 0, 4, 0, 0, 1, 5
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\README.md", "Markdown", 0, 0, 0, 0, 38, 0, 0, 0, 33, 71
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\package-lock.json", "JSON", 0, 0, 0, 0, 0, 33067, 0, 0, 1, 33068
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\package.json", "JSON", 0, 0, 0, 0, 0, 42, 0, 0, 1, 43
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\public\index.html", "HTML", 0, 0, 0, 0, 0, 0, 26, 23, 2, 51
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\public\manifest.json", "JSON", 0, 0, 0, 0, 0, 25, 0, 0, 1, 26
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\App.js", "JavaScript", 20, 0, 0, 0, 0, 0, 0, 2, 5, 27
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\App.test.js", "JavaScript", 7, 0, 0, 0, 0, 0, 0, 0, 2, 9
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\assets\crown.svg", "XML", 0, 0, 0, 16, 0, 0, 0, 1, 0, 17
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\assets\shopping-bag.svg", "XML", 0, 0, 0, 52, 0, 0, 0, 1, 1, 54
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\component\button\button.component.jsx", "JavaScript React", 0, 0, 23, 0, 0, 0, 0, 3, 5, 31
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\component\button\button.styles.jsx", "JavaScript React", 0, 0, 45, 0, 0, 0, 0, 41, 9, 95
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\component\cart-dropdown\cart-dropdown.component.jsx", "JavaScript React", 0, 0, 24, 0, 0, 0, 0, 0, 7, 31
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\component\cart-dropdown\cart-dropdown.styles.scss", "SCSS", 0, 27, 0, 0, 0, 0, 0, 0, 4, 31
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\component\cart-icon\cart-icon.component.jsx", "JavaScript React", 0, 0, 15, 0, 0, 0, 0, 0, 6, 21
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\component\cart-icon\cart-icon.styles.scss", "SCSS", 0, 19, 0, 0, 0, 0, 0, 0, 3, 22
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\component\cart-item\cart-item.component.jsx", "JavaScript React", 0, 0, 16, 0, 0, 0, 0, 0, 4, 20
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\component\cart-item\cart-item.styles.scss", "SCSS", 0, 20, 0, 0, 0, 0, 0, 0, 4, 24
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\component\category-preview\category-preview.component.jsx", "JavaScript React", 0, 0, 22, 0, 0, 0, 0, 0, 5, 27
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\component\category-preview\category-preview.styles.scss", "SCSS", 0, 15, 0, 0, 0, 0, 0, 0, 3, 18
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\component\checkout-item\checkout-item.component.jsx", "JavaScript React", 0, 0, 33, 0, 0, 0, 0, 0, 10, 43
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\component\checkout-item\checkout-item.styles.scss", "SCSS", 0, 35, 0, 0, 0, 0, 0, 0, 7, 42
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\component\directory-item\directory-item.component.jsx", "JavaScript React", 0, 0, 22, 0, 0, 0, 0, 0, 7, 29
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\component\directory-item\directory-item.styles.scss", "SCSS", 0, 58, 0, 0, 0, 0, 0, 0, 11, 69
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\component\directory\directory.categories.styles.scss", "SCSS", 0, 6, 0, 0, 0, 0, 0, 0, 2, 8
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\component\directory\directory.components.jsx", "JavaScript React", 0, 0, 44, 0, 0, 0, 0, 0, 3, 47
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\component\form-input\form-input.component.jsx", "JavaScript React", 0, 0, 18, 0, 0, 0, 0, 0, 3, 21
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\component\form-input\form-input.styles.scss", "SCSS", 0, 46, 0, 0, 0, 0, 0, 0, 9, 55
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\component\product-card\product-card.component.jsx", "JavaScript React", 0, 0, 25, 0, 0, 0, 0, 1, 6, 32
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\component\product-card\product-card.styles.scss", "SCSS", 0, 44, 0, 0, 0, 0, 0, 0, 8, 52
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\component\sign-in-form\sign-in-form.component.jsx", "JavaScript React", 0, 0, 80, 0, 0, 0, 0, 1, 15, 96
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\component\sign-in-form\sign-in-form.styles.scss", "SCSS", 0, 12, 0, 0, 0, 0, 0, 0, 2, 14
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\component\sign-up-form\sign-up-form.component.jsx", "JavaScript React", 0, 0, 88, 0, 0, 0, 0, 0, 16, 104
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\component\sign-up-form\sign-up-form.styles.scss", "SCSS", 0, 8, 0, 0, 0, 0, 0, 0, 2, 10
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\contexts\cart.contexts.jsx", "JavaScript React", 0, 0, 79, 0, 0, 0, 0, 4, 18, 101
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\contexts\categories.context.jsx", "JavaScript React", 0, 0, 21, 0, 0, 0, 0, 6, 10, 37
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\contexts\user.context.jsx", "JavaScript React", 0, 0, 46, 0, 0, 0, 0, 9, 17, 72
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\index.js", "JavaScript", 24, 0, 0, 0, 0, 0, 0, 3, 5, 32
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\index.scss", "SCSS", 0, 18, 0, 0, 0, 0, 0, 1, 4, 23
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\logo.svg", "XML", 0, 0, 0, 1, 0, 0, 0, 0, 0, 1
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\reportWebVitals.js", "JavaScript", 12, 0, 0, 0, 0, 0, 0, 0, 2, 14
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\routes\authentication\authentication.components.jsx", "JavaScript React", 0, 0, 12, 0, 0, 0, 0, 29, 8, 49
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\routes\authentication\authentication.styles.scss", "SCSS", 0, 6, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\routes\categories-preview\categories-preview.component.jsx", "JavaScript React", 0, 0, 17, 0, 0, 0, 0, 2, 5, 24
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\routes\category\category.component.jsx", "JavaScript React", 0, 0, 25, 0, 0, 0, 0, 2, 10, 37
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\routes\category\category.styles.scss", "SCSS", 0, 11, 0, 0, 0, 0, 0, 0, 3, 14
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\routes\checkout\checkout.component.jsx", "JavaScript React", 0, 0, 33, 0, 0, 0, 0, 0, 5, 38
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\routes\checkout\checkout.styles.scss", "SCSS", 0, 27, 0, 0, 0, 0, 0, 0, 5, 32
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\routes\home\home.component.jsx", "JavaScript React", 0, 0, 11, 0, 0, 0, 0, 0, 3, 14
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\routes\navigation\navigation.component.jsx", "JavaScript React", 0, 0, 41, 0, 0, 0, 0, 1, 10, 52
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\routes\navigation\navigation.styles.jsx", "JavaScript React", 0, 0, 25, 0, 0, 0, 0, 17, 9, 51
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\routes\shop\shop.component.jsx", "JavaScript React", 0, 0, 13, 0, 0, 0, 0, 0, 5, 18
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\routes\shop\shop.styles.scss", "SCSS", 0, 6, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\setupTests.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 4, 1, 6
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\shop-data.js", "JavaScript", 238, 0, 0, 0, 0, 0, 0, 0, 2, 240
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\utils\fireebase\dist\firebase.utils.dev.js", "JavaScript", 201, 0, 0, 0, 0, 0, 0, 2, 57, 260
+"c:\Users\Samuel Sunmonu\Desktop\CodeJourney\CodeAlongs\crwn-clothing\src\utils\fireebase\firebase.utils.js", "JavaScript", 95, 0, 0, 0, 0, 0, 0, 17, 36, 148
+"Total", "-", 598, 358, 778, 69, 38, 33138, 26, 170, 415, 35590
